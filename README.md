@@ -26,3 +26,6 @@ et puis creation d'une nouvelle branche et ainsi de suite...
 
 ## Etape 3
 Creation du controleur frontal nommé `index.php`
+
+## Etape 4
+Creation d'un `.gitignore` pour rendre invisible `config.php` avant meme sa creation !
