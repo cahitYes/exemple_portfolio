@@ -16,4 +16,6 @@ Creer des branches par actions, et surtout faire regulierement des sauvegardes (
     git commit -m"Mon message"
     ...
     git push origin NomDeMaBranche
-    
+
+## Etape 3
+Creation du controleur frontal nommé `index.php`
