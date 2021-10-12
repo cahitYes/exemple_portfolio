@@ -17,5 +17,12 @@ Creer des branches par actions, et surtout faire regulierement des sauvegardes (
     ...
     git push origin NomDeMaBranche
 
+Puis effectuer un pull request sur la `main`sur github, ensuite le valider et retourner sur la `main` en local et faire 
+
+    git checkout main 
+    git pull origin main
+
+et puis creation d'une nouvelle branche et ainsi de suite...
+
 ## Etape 3
 Creation du controleur frontal nommé `index.php`
