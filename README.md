@@ -29,3 +29,7 @@ Creation du controleur frontal nommé `index.php`
 
 ## Etape 4
 Creation d'un `.gitignore` pour rendre invisible `config.php` avant meme sa creation !
+
+## Etape 5
+Creation du veritable config.php, il ne sera mis github grace au .`gitignore`
+On peut creer une copie de `config.php` de la quelle on retirerait les informations sencibles: `config.php.info`
