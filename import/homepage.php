@@ -13,6 +13,10 @@
 <body>
     
     <h1>Accueil</h1>
-
+    <?php
+    //on peut importer le menu en PHP sans passer par index.php
+    include "menu.php";
+    ?>
+    <img src="img/IMG_0188_1436.jpg" alt=""/>
 </body>
 </html>
