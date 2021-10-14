@@ -18,11 +18,11 @@ else{
     //on est pas sur l'accueil
     switch($_GET['pages']){
         case "cv":
-            echo "cv";
             // import du cv
+            include_once "import/curiculum.php";
             break;
         case "tuto":
-            echo "tuto lulu";
+            include_once "import/tutoriel.php";
             break;
         default:
             // chargement de l'accueil
